@@ -30,7 +30,7 @@ Có cơ chế đợi thao tác thủ công nếu thiếu ảnh thiết kế cùn
 
 sung và xác nhận mới tiếp tục
 
-Youtube Channel link : https://www.youtube.com/@truongthanhnam2210
+Youtube Channel link : https://www.youtube.com/@chuyenlamoingay2210
 
 🇺🇸 Project Description (English) Automated Audio Story-to-Video System with YouTube Uploader
 
@@ -62,4 +62,4 @@ There is a mechanism to wait for manual operations if there is a lack of design 
 
 control → the system waits for the user to add and confirm before continuing
 
-Youtube Channel link : https://www.youtube.com/@truongthanhnam2210
+Youtube Channel link : https://www.youtube.com/@chuyenlamoingay2210
