@@ -26,7 +26,7 @@ Tự động upload video lớn lên YouTube qua YouTube Data API v3.
 
 Tiếp tục quy trình với các chương tiếp theo.
 
-Có cơ chế đợi thao tác thủ công nếu thiếu ảnh thiết kế cùng canva website , đảm bảo kiểm soát nội dung → hệ thống chờ người dùng bổ 
+Có cơ chế đợi thao tác thủ công nếu thiếu ảnh thiết kế, đảm bảo kiểm soát nội dung → hệ thống chờ người dùng bổ 
 
 sung và xác nhận mới tiếp tục
 
@@ -58,7 +58,7 @@ Upload the final video to YouTube via YouTube Data API v3.
 
 Continue this loop with remaining chapters.
 
-There is a mechanism to wait for manual operations if there is a lack of design images with the Canva website, ensuring content 
+There is a mechanism to wait for manual operations if there is a lack of design images, ensuring content 
 
 control → the system waits for the user to add and confirm before continuing
 
