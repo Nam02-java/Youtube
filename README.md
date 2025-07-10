@@ -1,5 +1,6 @@
 # ChuyenLaMoiNgay
 
+ChuyenLaMoiNgay
 🇻🇳 Mô tả dự án (Tiếng Việt) Hệ thống Tự Động Chuyển Truyện Thành Video/Audio và Đăng Lên YouTube
 
 Dự án này là một hệ thống tự động xử lý truyện từ website, chuyển thành video audio chất lượng cao, và đăng lên YouTube theo từng cụm chương. Quy trình hoạt động như sau:
@@ -26,11 +27,13 @@ Tự động upload video lớn lên YouTube qua YouTube Data API v3.
 
 Tiếp tục quy trình với các chương tiếp theo.
 
-Có cơ chế đợi thao tác thủ công nếu thiếu ảnh thiết kế, đảm bảo kiểm soát nội dung → hệ thống chờ người dùng bổ 
+Có cơ chế đợi thao tác thủ công nếu thiếu ảnh thiết kế, đảm bảo kiểm soát nội dung → hệ thống chờ người dùng bổ
 
 sung và xác nhận mới tiếp tục
 
 Youtube Channel link : https://www.youtube.com/@chuyenlamoingay2210
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🇺🇸 Project Description (English) Automated Audio Story-to-Video System with YouTube Uploader
 
@@ -58,7 +61,7 @@ Upload the final video to YouTube via YouTube Data API v3.
 
 Continue this loop with remaining chapters.
 
-There is a mechanism to wait for manual operations if there is a lack of design images, ensuring content 
+There is a mechanism to wait for manual operations if there is a lack of design images, ensuring content
 
 control → the system waits for the user to add and confirm before continuing
 
